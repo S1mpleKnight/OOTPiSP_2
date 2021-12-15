@@ -1,6 +1,6 @@
 # OOTPiSP_2/ООТПиСП
 
-### All this diagrams here
+### All this diagrams are here
 
 - Use case
 - Deployment
