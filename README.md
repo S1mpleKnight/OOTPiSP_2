@@ -1,3 +1,11 @@
-# OOTPiSP_2
+# OOTPiSP_2/ООТПиСП
 
-### Всего диаграмм 8, но делаем 7. В этом файле все 7 штук, в папке Model
+### Diagrams
+
+- Use case
+- Deployment
+- Activity
+- Statechart
+- Sequence
+- Component
+- Class
